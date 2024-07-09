@@ -1,0 +1,10 @@
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Form1.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
